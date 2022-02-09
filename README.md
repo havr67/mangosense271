@@ -3,7 +3,9 @@ Mangos ENSE 271
 
 ## To connect to this repo
 
-In github extention type 
+First install GitHub extention 
+
+Then in command pallete type 
          
          Git: Add Remote
          
