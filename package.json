@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/havr67/mangosense271/issues"
   },
-  "homepage": "https://github.com/havr67/mangosense271#readme"
+  "homepage": "https://github.com/havr67/mangosense271#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
 }
