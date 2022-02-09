@@ -17,6 +17,9 @@ then create path on the server
          "app.use('/', test_app)"
                   ^ path -> http://localhost:7777/
                            ^ your path to the file
+         "app.use('/hello', test1_app)"
+                   ^ path -> http://localhost:7777/hello
+                       
 ### create your file with the same name
 
 add to your file
