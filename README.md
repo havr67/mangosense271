@@ -19,7 +19,7 @@ then create path on the server
 ### create your file with the same name
 
 add to your file
-    #
+    ```
     const express = require('express')
     const url = require('url')
     const routs = express.Router()
@@ -27,6 +27,7 @@ add to your file
     here you put your functions
 
     module.exports = routs;
+    ```
 
 to create post or get request just put 
     routs.get or routs.post
