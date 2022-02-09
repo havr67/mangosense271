@@ -1,6 +1,25 @@
 # mangos ENSE271
 Mangos ENSE 271
 
+## To connect to this repo
+
+In github extention type 
+         
+         Git: Add Remote
+         
+Then type 
+         
+         https://github.com/havr67/mangosense271
+      
+Put your name 
+
+Choose 
+         
+         test_branch 
+
+Commit with a comment 
+
+
 ## To start Server 
 ### type in terminal 
 
