@@ -8,7 +8,7 @@ Mangos ENSE 271
 
 All server side stuff is ready 
 
-now you can add in folder :white_check_mark: __"/app"__ your components and see ho they work in the app
+now you can add in folder :white_check_mark: __"/app"__ your components and see how it work in the app
 
 ## how to add yours component
 ### in conrollers open app.js 
