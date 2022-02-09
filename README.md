@@ -19,9 +19,6 @@ then create path on the server
 ### create your file with the same name
 
 add to your file
-    ```
-
-    here you put your functions
 
     const express = require('express')
     const url = require('url')
