@@ -11,15 +11,15 @@ now you can add in folder :white_check_mark: __"/app"__ your components and see 
 ### in conrollers open app.js 
 create your path to the file
          
-         "const test_app = require('./test')"
+         const test_app = require('./test')
 
 where "test is 'test.js'"
 then create path on the server
 
-         "app.use('/', test_app)"
+         app.use('/', test_app)
                   ^ path -> http://localhost:7777/
                            ^ your path to the file
-         "app.use('/hello', test1_app)"
+         app.use('/hello', test1_app)
                    ^ path -> http://localhost:7777/hello
                        
 ### create your file with the same name
