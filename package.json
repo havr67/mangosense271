@@ -2,6 +2,7 @@
   "name": "mangosense271",
   "version": "1.0.0",
   "description": "Mangos ENSE 271",
+<<<<<<< HEAD
   "main": "index.js",
   "dependencies": {
     "express": "^4.17.2"
@@ -9,15 +10,33 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+=======
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+>>>>>>> e548e6fe71cf8710de02b6d2004271a3020004e9
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/havr67/mangosense271.git"
   },
+<<<<<<< HEAD
   "author": "havr67",
+=======
+  "author": "",
+>>>>>>> e548e6fe71cf8710de02b6d2004271a3020004e9
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/havr67/mangosense271/issues"
   },
+<<<<<<< HEAD
   "homepage": "https://github.com/havr67/mangosense271#readme"
+=======
+  "homepage": "https://github.com/havr67/mangosense271#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "jsonwebtoken": "^8.5.1"
+  }
+>>>>>>> e548e6fe71cf8710de02b6d2004271a3020004e9
 }
