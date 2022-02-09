@@ -20,14 +20,14 @@ then create path on the server
 
 add to your file
     ```
-    const express = require('express')
-    const url = require('url')
-    const routs = express.Router()
 
     here you put your functions
 
+    const express = require('express')
+    const url = require('url')
+    const routs = express.Router()
     module.exports = routs;
-    ```
+    
 
 to create post or get request just put 
     routs.get or routs.post
