@@ -13,11 +13,10 @@ create your path to the file
 "const test_app = require('./test')"
 where "test is 'test.js'"
 then create path on the server
-"app.use('/', test_app)"
 
-         ^ path -> http://localhost:7777/
-         
-                ^ your path to the file
+         "app.use('/', test_app)"
+                  ^ path -> http://localhost:7777/
+                           ^ your path to the file
 ### create your file with the same name
 
 add to your file
