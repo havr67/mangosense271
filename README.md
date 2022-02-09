@@ -7,6 +7,7 @@ Mangos ENSE 271
          npm start
 
 All server side stuff is ready 
+
 now you can add in folder :white_check_mark: __"/app"__ your components and see ho they work in the app
 
 ## how to add yours component
