@@ -10,7 +10,9 @@ now you can add in folder :white_check_mark: __"/app"__ your components and see 
 ## how to add yours component
 ### in conrollers open app.js 
 create your path to the file
-"const test_app = require('./test')"
+         
+         "const test_app = require('./test')"
+
 where "test is 'test.js'"
 then create path on the server
 
