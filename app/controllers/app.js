@@ -20,7 +20,7 @@ app.use(express.json());
 }));
 
 app.use('/', test_app)
-app.use('/hello', test1_app) //d
+app.use('/hello', test1_app) 
 
 // here we have error hadaling 
 app.use((req, res, next) => {
