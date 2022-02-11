@@ -1,7 +1,7 @@
 const express = require('express')
 const app = express()
 
-console.log("app started");
+console.log("app started"); //Nice
 
 const test_app = require('./test')
 const test1_app = require('./test1')
