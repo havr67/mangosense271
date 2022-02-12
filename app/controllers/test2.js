@@ -20,20 +20,16 @@ routs.get('/', (req, res, next) => {
 
 //for simting
 routs.get('/h',(req, res, next) => {
-    let urlRequest = url.parse(req.url, true); // get query like ?tag=tag
-    console.log(urlRequest);
-    const tag = urlRequest.query.tags;
-    const sortBy = urlRequest.query.sortBy;
-    const direction = urlRequest.query.direction;
-    if(tag === undefined){
-        console.log('2');
-        checkWOTags(req, res, sortBy, direction);
-    } else if (tag != undefined || sortBy != undefined || direction != undefined){
-        console.log('3');
-        checkForTags(req, res, tag, sortBy, direction);
-    } else {
-        getAll(req, res);
-    }
+    let urlRequest = url.parse(req.url, true) // get query like ?tag=tag
+    console.log(urlRequest)
 });
+
+routs.post('/', (req, res) => {
+    res.status(200).json({
+        message: 'API works'
+    })
+});
+
+
 
 module.exports = routs;
