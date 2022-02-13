@@ -17,6 +17,7 @@ routs.get('/', (req, res, next) => {
     //console.log("Nikitas app");
     try {
         let urlRequest = url.parse(req.url, true)
+        console.log(urlRequest);
         //console.log(urlRequest)
         const user = urlRequest.query.user
         const user_id = urlRequest.query.user_id 
