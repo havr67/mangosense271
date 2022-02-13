@@ -8,6 +8,7 @@ const test1_app = require('./test1')
 const test2_app = require('./test2')
 const dk_test = require('./dk')
 const yx_test = require('./mytest')
+const nikita = require('./nikita')
 
 //CORS set up 
 app.use(function(req, res, next) {
@@ -27,6 +28,7 @@ app.use('/hello', test1_app)
 app.use('/g', test2_app)
 app.use('/testing', dk_test)
 app.use('/testtesttest',yx_test)
+app.use('/nikita', nikita)
 
 // here we have error hadaling 
 app.use((req, res, next) => {
