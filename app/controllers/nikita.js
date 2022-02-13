@@ -55,7 +55,7 @@ routs.post('/', (req, res, next) => {
 
         res.status(200).json({
             message: 'Updated Listing',
-            createdListing: listing
+            createdListing: user
         });
     } catch (e) {
         res.status(500).json({message: "something went wrong1"});
