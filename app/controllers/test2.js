@@ -17,7 +17,6 @@ routs.get('/', (req, res, next) => {
 
 });
 
-
 //for simting
 routs.get('/h',(req, res, next) => {
     let urlRequest = url.parse(req.url, true) // get query like ?tag=tag
