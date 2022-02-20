@@ -4,6 +4,8 @@ import Image from 'next/image'
 import phota1 from '../src/images/ava1-bg.webp'
 import phota2 from '../src/images/ava2-bg.webp'
 
+import {  } from 'next/router'
+
 
 
 export default function Chat (){
