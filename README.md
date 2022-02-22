@@ -1,4 +1,4 @@
-# Activity1 
+# ENSE271 Team Project Activity 1_Mangos
 
 ## Feb 7, 2022
 Chcek-in with Regina Food Bank:
