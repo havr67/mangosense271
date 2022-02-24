@@ -26,10 +26,10 @@ Check-in with Customers:
 - More questions on chat bot system
 - Introduce our sitemaps and lo-fi prototypes to customers
 - What they think of it?
-  - 
-  -
+  - ans
+  - ans
 - What can we improve?
-  - 
-  -
+  - ans
+  - ans
   
   
