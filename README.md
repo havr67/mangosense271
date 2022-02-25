@@ -1,5 +1,7 @@
 # ENSE271 Team Project Activity 1_Mangos
 
+Affinity Diagram on GitHub (https://github.com/havr67/mangosense271/projects/4)
+
 ## Team/Customer(Regina Food Bank) Check-in Feb 28, 2022 
 Chcek-in with Regina Food Bank:
 - They are getting donations for the bot system but not implement yet
