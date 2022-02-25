@@ -11,4 +11,11 @@ Chcek-in with Regina Food Bank:
 Next meeting: Working on USM on stories on Board
  
  
+**Project Assumption:**
+We are going to use NodeJS, python and WordPress, for the realization of the project. NodeJS for server side and frontend. Python for bot algorithms.
+
+**Project constraints:** 
+Due to the pandemic, the call centre, call volume has increase drastically so we have decided to introduce chat bot messaging to help our customer reach the food bank and not wait in the call que. Also it becomes easier for the call centre worker to not get overloaded with work. But due to lack of knowledge and practice we will have quite trial and error to go first. Also we have limited time and resource(knowledge) so will need to work accordingly.
+
+ 
 
