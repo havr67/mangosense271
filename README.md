@@ -1,67 +1,31 @@
-# mangos ENSE271
-Mangos ENSE 271
+# ENSE271 Team Mangos
 
-## To connect to this repo
+Welcome to Team Mangos GitHub page!
 
-First install GitHub extention 
+**Members**
+- DongYun Kim
+- Nikkita Khavronin
+- Swarnim Amit Kumar
+- Yi Xu
 
-Then in command pallete type 
-         
-         Git: Add Remote
-         
-Then type 
-         
-         https://github.com/havr67/mangosense271
-      
-Put your name 
+## Problem description
+After the pandemic, Regina Food Bank has been dealing with a high volume of calls and increasing call drops. With that new CRM tool has been approached to the Food Bank system and the situation got a little tricky. What are some better design systems for both customers and Food bank? 
 
-Choose 
-         
-         test_branch 
+## Summary
+Our project will update and increase the functionality of GET HELP page, also adding the texting bot that would allow users to answer their questions without phone call. This allows user with better interaction with food bank, and put less stress on call center.
 
-Commit with a comment 
+## Northstar & Carryover customers
+Northstar customers are long-term users of the food bank since they will be delightful to find the improvement of the food bank services.
+
+Carryover customers are one or two-time users. It is likely that if these new users are satisfied with the design, other users are willing to choose that as well.
+
+## Project Assumption
+We are going to use NodeJS, python and WordPress, for the realization of the project. NodeJS for server side and frontend. Python for bot algorithms.
 
 
-## To start Server 
-### type in terminal 
+## Project Constraints
+While making a chatbot for the FOOD BANK, the one main constraint is a lack of experience and knowledge. We will need to have a good quality outcome in the limited time we have to solve the majority of problems.
 
-         npm start
-
-All server side stuff is ready 
-
-now you can add in folder :white_check_mark: __"/app"__ your components and see how it work in the app
-
-## how to add yours component
-### in conrollers open app.js 
-create your path to the file
-         
-         const test_app = require('./test')
-
-where "test is 'test.js'"
-
-then create path on the server
-
-         app.use('/', test_app)
-                  ^ path -> http://localhost:7777/
-                           ^ your path to the file
-         app.use('/hello', test1_app)
-                   ^ path -> http://localhost:7777/hello
-                       
-### create your file with the same name
-
-add to your file
-
-    const express = require('express')
-    const url = require('url')
-    const routs = express.Router()
-    
-    //your code here
-    
-    module.exports = routs;
-    
-
-to create post or get request just put 
-    routs.get or routs.post
-
-after that its up to you 
-
+### Please check different branches for Project Activities
+[Activity 1] (https://github.com/havr67/mangosense271/tree/activity_1)
+[Activity 2] (https://github.com/havr67/mangosense271/tree/activity_2)
