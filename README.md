@@ -26,7 +26,9 @@ We are going to use NodeJS, python and WordPress, for the realization of the pro
 ## Project Constraints
 While making a chatbot for the FOOD BANK, the one main constraint is a lack of experience and knowledge. We will need to have a good quality outcome in the limited time we have to solve the majority of problems.
 
-## Please check different branches for Project Activities
+## Project Activities
+
+Please check different branches for project Activities:
 - [Activity 1](https://github.com/havr67/mangosense271/tree/activity_1)
 
 - [Activity 2](https://github.com/havr67/mangosense271/tree/activity_2)
