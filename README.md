@@ -23,14 +23,7 @@ Team meeting on discord:
 ## Feb 28, 2022
 Check-in with Customers:
 
-- More questions on chat bot system
-- Introduce our sitemaps and lo-fi prototypes to customers
-- What they think of it?
-  - ans
-  - ans
-- What can we improve?
-  - ans
-  - ans
+[Summarized Documents](https://github.com/havr67/mangosense271/blob/activity_2/Feb%2028_Check-ins%20notes.docx)
   
-  **Needs to upadte our license to Creative Commons one (CC SA-BY)
+  **Needs to upadte our license to Creative Commons one (CC SA-BY)**
   
