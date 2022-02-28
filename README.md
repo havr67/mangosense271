@@ -4,8 +4,12 @@
 
 1. Proposed navigations/**site maps**, i.e. how your team envisions supporting "digital wayfinding" (teams should produce at least one navigation/site map/team member, e.g. a team of 3 should have at least 3 different site maps proposals to be tested/explored.
 
+[Explore Team Mangos Sitemaps](https://github.com/havr67/mangosense271/tree/activity_2/Sitemaps)
+
 2. **Low-fidelity prototype** explorations (teams should produce at least one low-fidelity interface/team member, e.g. a team of 3 should have at least 3 different low-fidelity prototypes to be tested/explored.
 Ensure low-fidelity prototypes link to design ideas discussed in class; a minimum of three topics discussed in class relating to people-centred design (affordances, gestalt, constraints, etc.). Document these in a 1-page PDF
+
+[Explore Team Mangos lo-fi prototype](https://github.com/havr67/mangosense271/tree/activity_2/Sitemaps)
 
 3. **Updated user story map**, if required (regardless, ensure to do a PDF export from StoriesOnBoard) with envisioned MVPs as a snapshot of changes/no changes)
 
