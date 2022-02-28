@@ -32,4 +32,5 @@ Check-in with Customers:
   - ans
   - ans
   
+  **Needs to upadte our license to Creative Commons one (CC SA-BY)
   
