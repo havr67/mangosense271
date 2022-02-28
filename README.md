@@ -11,7 +11,7 @@ Ensure low-fidelity prototypes link to design ideas discussed in class; a minimu
 
 ✅  [Explore Team Mangos lo-fi prototype](https://github.com/havr67/mangosense271/tree/activity_2/Sitemaps)
 
-✅  [lo-fi protype and people-centred design] (https://github.com/havr67/mangosense271/blob/activity_2/Mangos_Lo-fi%20Prototype%20and%20Design%20Ideas.pdf)
+✅  [lo-fi prototype and people-centred design document](https://github.com/havr67/mangosense271/blob/activity_2/Mangos_Lo-fi%20Prototype%20and%20Design%20Ideas.pdf)
 
 3. **Updated user story map**, if required (regardless, ensure to do a PDF export from StoriesOnBoard) with envisioned MVPs as a snapshot of changes/no changes)
 
