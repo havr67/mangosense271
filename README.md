@@ -23,7 +23,7 @@ Team meeting on discord:
 ## Feb 28, 2022
 Check-in with Customers:
 
-[Summarized Documents](https://github.com/havr67/mangosense271/blob/activity_2/Feb%2028_Check-ins%20notes.docx)
+[Summarized Documents](https://github.com/havr67/mangosense271/blob/activity_2/Feb%2028_Check-ins%20notes.pdf)
   
   **Needs to upadte our license to Creative Commons one (CC SA-BY)**
   
