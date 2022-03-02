@@ -6,7 +6,8 @@ export default function chat(req: NextApiRequest, res: NextApiResponse){
             res.json({chat: 'test', method: req.method})
         }
         if(req.method == 'GET'){
-            res.json({chat: 'test', method: req.method})
+            let id = GetChatId(req)
+            res.json({chat: 'test', method: req.method, id: id})
         } else{
             res.status(500).json({error: "Method is not supported"})
         }
@@ -14,4 +15,20 @@ export default function chat(req: NextApiRequest, res: NextApiResponse){
     } catch (e) {
         res.status(500).json({error: e})
     }
+}
+
+
+function GetChatContext(req: NextApiRequest){
+    try {
+        let chat_content: String = req.body.message
+        return chat_content
+    } catch (e) {
+        //res.status(500).json({error: e})
+    }
+}
+
+function GetChatId(req: NextApiRequest){
+    let id = req.query.id
+
+    return id
 }
