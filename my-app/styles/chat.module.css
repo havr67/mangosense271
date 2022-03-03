@@ -1,0 +1,168 @@
+.shadow {
+    box-shadow: 0 2px 15px rgb(0 0 0 / 68%);
+  }
+
+.suka {
+  background-color: #726dfe;
+}
+  
+  /* Chat List */
+  .cewrapper {
+    background-color: #4a5162 !important;
+  }
+  
+  .cechatscontainer {
+    background-color: #4a5162 !important;
+    border-radius: 0px !important;
+  }
+  
+  .cechatformcontainer {
+    background-color: #4a5162 !important;
+    color: white;
+  }
+  
+  .cechatcard {
+    margin: 0px 6px !important;
+  }
+  
+  .cechatcardloadingbar {
+    background-color: #535a6d !important;
+  }
+  
+  .ceactivechatcard {
+    background-color: #726dfe !important;
+  }
+  
+  .cechattitletext {
+    color: white !important;
+  }
+  
+  .cechatsubtitletext {
+    color: hsla(0, 0%, 100%, 0.568) !important;
+  }
+  
+  .cechatunreaddot {
+    background-color: white !important;
+  }
+  
+  /* Chat Feed */
+  
+  .cechattitlecontainer {
+    background-color: #4a5162 !important;
+    border-radius: 0px !important;
+  }
+  
+  .cechatfeedcontainer {
+    background-color: #4a5162 !important;
+  }
+  
+  .ceprimarybutton {
+    background-color: #9a97fc !important;
+  }
+  
+  .cemessagedatetext {
+    color: hsla(0, 0%, 100%, 0.568) !important;
+  }
+  
+  .cemymessagebubble {
+    background-color: #726dfe !important;
+  }
+  
+  .cemymessagesindingbubble {
+    background-color: #938ffe !important;
+  }
+  
+  .cemymessagetimestamp {
+    color: #9a97fc !important;
+  }
+  
+  .cetheirmessagetimestamp {
+    color: hsla(0, 0%, 100%, 0.568) !important;
+  }
+  
+  #cesendmessagebutton {
+    background-color: #9a97fc !important;
+  }
+  
+  #ceicebreakergif {
+    max-width: 115px !important;
+    margin-top: 30px !important;
+  }
+  
+  .cesocialmessageform {
+    background-color: #4a5162 !important;
+  }
+  
+  .cemessageinputform {
+    padding-bottom: 10px !important;
+  }
+  
+  #msgtextarea {
+    width: calc(100%  140px) !important;
+    position: relative !important;
+    top: 4px !important;
+    border-width: 0px !important;
+    background-color: #4a5162 !important;
+    color: white !important;
+  }
+  #msgtextarea::placeholder {
+    color: hsla(0, 0%, 100%, 0.568) !important;
+  }
+  
+  #ceuploaddocumenticon {
+    color: white !important;
+  }
+  
+  .cefeedcontainerbottom {
+    height: "44px";
+  }
+  
+  .cemessageimagesrow {
+    background-color: #4a5162 !important;
+  }
+  
+  .cetheirmessagesender {
+    color: hsla(0, 0%, 100%, 0.568) !important;
+  }
+  
+  .cetheirmessagebubble {
+    background-color: #535a6d !important;
+    color: rgba(255, 255, 255, 0.705) !important;
+  }
+  
+  /* Chat Settings */
+  
+  .cesettings {
+    background-color: #4a5162 !important;
+    border-radius: 0px !important;
+  }
+  
+  .cechattitleform .cetextinput {
+    background-color: #4a5162;
+    color: white;
+  }
+  
+  .cesectiontitlecontainer {
+    background-color: #4a5162 !important;
+    color: white;
+  }
+  
+  #ceoptionsdropdown {
+    background-color: #4a5162 !important;
+    color: white;
+  }
+  
+  .cepersontext {
+    color: hsla(0, 0%, 100%, 0.568);
+  }
+  
+  .cedangerbutton {
+    background-color: #4a5162 !important;
+    border: 1px solid #9a97fc !important;
+    color: #9a97fc !important;
+  }
+  
+  .ceautocompleteclose {
+    background-color: white !important;
+    border-radius: 0px !important;
+  }
