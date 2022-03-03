@@ -28,10 +28,6 @@ Ensure low-fidelity prototypes link to design ideas discussed in class; a minimu
 Team meeting on discord:
 - worked on sitemaps (individuals)
 - share ideas and functions of lo-fi prototypes (individuals)
-- Tested and explored of lo-fi prototypes 
-
- 
-
-  
-  **Needs to upadte our license to Creative Commons one (CC SA-BY)**
+- Tested and explored of lo-fi prototypes
+- Upadted license to Creative Commons one (CC SA-BY)  
   
