@@ -31,3 +31,8 @@ Team meeting on discord:
 - Tested and explored of lo-fi prototypes
 - Upadted license to Creative Commons one (CC SA-BY)  
   
+## Mar 2, 2022
+After check-in with customer:
+- Reviewing feedbacks from the customer
+- Starting ideas on Hi-Fi prototype
+- Explored WordPress and some plug-ins
