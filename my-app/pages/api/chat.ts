@@ -5,10 +5,12 @@ export default function chat(req: NextApiRequest, res: NextApiResponse){
         if(req.method == 'POST'){
             res.json({chat: 'test', method: req.method})
             let chat_context = GetChatContext(req)
+            GetChatState(req)
         }
         if(req.method == 'GET'){
             let id = GetChatId(req)
             res.json({chat: 'test', method: req.method, id: id})
+            GetChatState(req)
         } else{
             res.status(500).json({error: "Method is not supported"})
         }
@@ -32,12 +34,12 @@ function GetChatState(req: NextApiRequest){
     try {
         let state = req.query.state
         if(state === 'getfaq'){
-
+            // console.log("getfaq");
         }
         if(state === 'getorderfood'){
             
         }
-        if(state === 'getfaq'){
+        if(state === 'getcreateaccount'){
             
         }
         if(state === 'gethelp'){
