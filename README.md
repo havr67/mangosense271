@@ -2,26 +2,18 @@
 
 **To-do**
 
-1. Proposed navigations/**site maps**, i.e. how your team envisions supporting "digital wayfinding" (teams should produce at least one navigation/site map/team member, e.g. a team of 3 should have at least 3 different site maps proposals to be tested/explored.
+1. **High-fidelity prototype (HFP)** exploration (teams should produce one fully-interactive high-fidelity prototype in Adobe XD. The HFP should explore responsive design (mobile and desktop look and feel) as well as imagery, colour, type, and fully interactive "points & clicks."
 
-✅  [Explore Team Mangos Sitemaps](https://github.com/havr67/mangosense271/tree/activity_2/Sitemaps)
-
-2. **Low-fidelity prototype** explorations (teams should produce at least one low-fidelity interface/team member, e.g. a team of 3 should have at least 3 different low-fidelity prototypes to be tested/explored.
-Ensure low-fidelity prototypes link to design ideas discussed in class; a minimum of three topics discussed in class relating to people-centred design (affordances, gestalt, constraints, etc.). Document these in a 1-page PDF
-
-✅  [Explore Team Mangos lo-fi prototype](https://github.com/havr67/mangosense271/tree/activity_2/Low-Fidelity%20Prototypes)
-
-✅  [lo-fi prototype and people-centred design document](https://github.com/havr67/mangosense271/blob/activity_2/Mangos_Lo-fi%20Prototype%20and%20Design%20Ideas.pdf)
+2. Ensure you link design ideas back to a minimum of three topics discussed in class relating to people-centred design (affordances, gestalt, constraints, etc.). **Document** these in a 1-page PDF (with screenshots/images as necessary)
 
 3. **Updated user story map**, if required (regardless, ensure to do a PDF export from StoriesOnBoard) with envisioned MVPs as a snapshot of changes/no changes)
+Summarized customer notes from customer check-ins (2-page maximum)
 
-✅ [Updated USM](https://github.com/havr67/mangosense271/blob/activity_2/Ense271_mangos_USM%20(UPDATED).pdf)
+4. **Self/peer review files** (uploaded to URCourses only)
 
-4. **Summarized customer notes** from customer check-ins (2-page maximum)
+5. **All files** uploaded to GitHub
 
-✅ [Summarized Documents](https://github.com/havr67/mangosense271/blob/activity_2/Feb%2028_Check-ins%20notes.pdf)
-
-5. **Self/peer review files** (uploaded to URCourses only) ✅ 
+✅ 
 
 
 ## Feb 23, 2022
