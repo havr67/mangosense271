@@ -5,6 +5,7 @@
 1. **High-fidelity prototype (HFP)** exploration (teams should produce one fully-interactive high-fidelity prototype in Adobe XD. The HFP should explore responsive design (mobile and desktop look and feel) as well as imagery, colour, type, and fully interactive "points & clicks."
 
 ✅ [Hi-Fi Prototype Desktop Ver.](https://github.com/havr67/mangosense271/blob/activity_3/ENSE271%20Mangos%20Hi-Fi%20web%20Ver..xd)
+
 ✅ [Hi-Fi Prototype Mobile Ver.](https://github.com/havr67/mangosense271/blob/activity_3/ENSE271%20Mangos%20Hi-Fi%20mobile%20Ver..xd)
 
 2. Ensure you link design ideas back to a minimum of three topics discussed in class relating to people-centred design (affordances, gestalt, constraints, etc.). **Document** these in a 1-page PDF (with screenshots/images as necessary)
