@@ -10,15 +10,15 @@
 
 2. Ensure you link design ideas back to a minimum of three topics discussed in class relating to people-centred design (affordances, gestalt, constraints, etc.). **Document** these in a 1-page PDF (with screenshots/images as necessary)
 
-✅[lo-fi prototype and people-centred design document](https://github.com/havr67/mangosense271/blob/activity_3/Mangos_Hi-Fi%20Prototype%20and%20Design%20Ideas.pdf)
+✅ [lo-fi prototype and people-centred design document](https://github.com/havr67/mangosense271/blob/activity_3/Mangos_Hi-Fi%20Prototype%20and%20Design%20Ideas.pdf)
 
 3. **Updated user story map**, if required (regardless, ensure to do a PDF export from StoriesOnBoard) with envisioned MVPs as a snapshot of changes/no changes)
 
 4. **Summarized customer notes** from customer check-ins (2-page maximum)
 
-5. **Self/peer review files** (uploaded to URCourses only)
+5. **Self/peer review files** (uploaded to URCourses only) ✅ 
 
-6. **All files** uploaded to GitHub
+6. **All files** uploaded to GitHub ✅ 
 
 ✅ 
 
