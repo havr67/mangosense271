@@ -27,7 +27,7 @@ After check-in with customer:
 - Starting ideas on Hi-Fi prototype
 - Explored WordPress and some plug-ins
 
-## March 14, 2022
+## 
 Team meeting in-person after the check-in:
 - Reviewed on Hi-Fi prototype
 - Be prepared to ask and answer questions during check-in with customer
