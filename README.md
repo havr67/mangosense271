@@ -20,16 +20,16 @@
 
 ✅ 
 
-
-## Feb 23, 2022
-Team meeting on discord:
-- worked on sitemaps (individuals)
-- share ideas and functions of lo-fi prototypes (individuals)
-- Tested and explored of lo-fi prototypes
-- Upadted license to Creative Commons one (CC SA-BY)  
   
 ## Mar 2, 2022
 After check-in with customer:
 - Reviewing feedbacks from the customer
 - Starting ideas on Hi-Fi prototype
 - Explored WordPress and some plug-ins
+
+## , 2022
+Team meeting in-person:
+- Reviewed on Hi-Fi prototype
+- Be prepared to ask and answer questions during check-in with customer
+- Discussion with Dr. Maciag about our design system
+- Explore WordPress Plugins on Chatbot and think of ideas on how could we implement our ideas onto those plugins
