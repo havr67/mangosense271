@@ -21,14 +21,14 @@
 ✅ 
 
   
-## Mar 2, 2022
+## Mar 14, 2022
 After check-in with customer:
 - Reviewing feedbacks from the customer
 - Starting ideas on Hi-Fi prototype
 - Explored WordPress and some plug-ins
 
-## , 2022
-Team meeting in-person:
+## March 14, 2022
+Team meeting in-person after the check-in:
 - Reviewed on Hi-Fi prototype
 - Be prepared to ask and answer questions during check-in with customer
 - Discussion with Dr. Maciag about our design system
