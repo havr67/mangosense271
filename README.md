@@ -39,3 +39,8 @@ Team meeting in-person after the check-in:
 - Be prepared to ask and answer questions during check-in with customer
 - Discussion with Dr. Maciag about our design system
 - Explore WordPress Plugins on Chatbot and think of ideas on how could we implement our ideas onto those plugins
+
+## Mar 16, 2022
+- Explored and tested the chatbot system using JSON API
+  - Retrieving user information after the sign-up (successfully done)
+  - Log-in process with email and name (still progressing)
