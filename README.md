@@ -16,6 +16,8 @@
 
 4. **Summarized customer notes** from customer check-ins (2-page maximum)
 
+✅ [Summarized customer note](https://github.com/havr67/mangosense271/blob/activity_3/ENSE271%20Group%20Project-check%20in%20Mar%2014.pdf)
+
 5. **Self/peer review files** (uploaded to URCourses only) ✅ 
 
 6. **All files** uploaded to GitHub ✅ 
