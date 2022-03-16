@@ -14,6 +14,8 @@
 
 3. **Updated user story map**, if required (regardless, ensure to do a PDF export from StoriesOnBoard) with envisioned MVPs as a snapshot of changes/no changes)
 
+✅ [Updated USM] (https://github.com/havr67/mangosense271/blob/activity_3/Updated%20USM_Ense271_mangos.pdf)
+
 4. **Summarized customer notes** from customer check-ins (2-page maximum)
 
 ✅ [Summarized customer note](https://github.com/havr67/mangosense271/blob/activity_3/ENSE271%20Group%20Project-check%20in%20Mar%2014.pdf)
