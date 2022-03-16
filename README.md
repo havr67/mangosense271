@@ -24,7 +24,6 @@
 
 6. **All files** uploaded to GitHub ✅ 
 
-✅ 
 
   
 ## Mar 14, 2022
