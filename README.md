@@ -5,12 +5,14 @@
 1. **High-fidelity prototype (HFP)** exploration (teams should produce one fully-interactive high-fidelity prototype in Adobe XD. The HFP should explore responsive design (mobile and desktop look and feel) as well as imagery, colour, type, and fully interactive "points & clicks."
 
 ✅ [Hi-Fi Prototype Desktop Ver.](https://github.com/havr67/mangosense271/blob/activity_3/ENSE271%20Mangos%20Hi-Fi%20web%20Ver..xd)
+✅ [PDF Hi-Fi Prototype Desktop Ver.](https://github.com/havr67/mangosense271/blob/activity_3/ENSE271%20Mangos%20Hi-Fi%20web%20Ver..pdf)
 
 ✅ [Hi-Fi Prototype Mobile Ver.](https://github.com/havr67/mangosense271/blob/activity_3/ENSE271%20Mangos%20Hi-Fi%20mobile%20Ver..xd)
+✅ [PDF Hi-Fi Prototype Mobile Ver.](https://github.com/havr67/mangosense271/blob/activity_3/ENSE271%20Mangos%20Hi-Fi%20mobile%20Ver..pdf)
 
 2. Ensure you link design ideas back to a minimum of three topics discussed in class relating to people-centred design (affordances, gestalt, constraints, etc.). **Document** these in a 1-page PDF (with screenshots/images as necessary)
 
-✅ [lo-fi prototype and people-centred design document](https://github.com/havr67/mangosense271/blob/activity_3/Mangos_Hi-Fi%20Prototype%20and%20Design%20Ideas.pdf)
+✅ [Hi-Fi prototype and people-centred design document](https://github.com/havr67/mangosense271/blob/activity_3/Mangos_Hi-Fi%20Prototype%20and%20Design%20Ideas.pdf)
 
 3. **Updated user story map**, if required (regardless, ensure to do a PDF export from StoriesOnBoard) with envisioned MVPs as a snapshot of changes/no changes)
 
