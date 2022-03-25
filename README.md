@@ -34,3 +34,5 @@ Please check different branches for project Activities:
 - [Activity 2](https://github.com/havr67/mangosense271/tree/activity_2)
 
 - [Activity 3](https://github.com/havr67/mangosense271/tree/activity_3)
+
+- [Activity 4](https://github.com/havr67/mangosense271/tree/activity_4)
