@@ -1,7 +1,7 @@
 # ENSE271 Team Project Activity 4_Mangos
 
 **To-do**
-1. **Summarized customer notes** from customer check-ins (2-page maximum)
+1. **Summarized customer notes** from customer check-ins (2-page maximum) ✅ 
 2. **WordPress backup "dump" files** uploaded to GitHub (via WPVivid Backup and Restore plugin, https://wpvivid.com/)
 3. **Project report-out and lessons learned document (as a PDF)**. See criteria below
 4. **All up-to-date project documentation/files** from previous and current project activities in team GitHub
