@@ -15,19 +15,18 @@ Last check-in with customer:
 Final project presentation with a product demo. The presentation should include:
 - Team reintroductions
 - Reiteration of envisioned problem/opportunity as well as discussion on Northstar and Carryover customer selection
-- Discussion of WordPress configuration (theme/plugins used)
+- Discussion of the configuration (API/React/DataBase)
 - WordPress demo
 - Time for Q/A
 
 
-## Mar 26, 2022
-Team meating notes:
-- Reviewing feedbacks from the customer
-- Starting ideas on Hi-Fi prototype
-- Explored WordPress and some plug-ins
+## Apr 4, 2022
+Team meating notes after check-in with Regina Food Bank:
+- Keep exploring and testing API
+- Start documenting the configuration we used and how it works
 
 
-## Mar 16, 2022
+## Apr 6, 2022
 - Explored and tested the chatbot system using JSON API
   - Retrieving user information after the sign-up (successfully done)
   - Log-in process with email and name (still progressing)
