@@ -5,8 +5,13 @@
 2. **WordPress backup "dump" files** uploaded to GitHub (via WPVivid Backup and Restore plugin, https://wpvivid.com/)
 3. **Project report-out and lessons learned document (as a PDF)**. See criteria below
 4. **All up-to-date project documentation/files** from previous and current project activities in team GitHub
-5. **Self/peer review files** (uploaded to URCourses only)
-✅ 
+
+- [Activity 1](https://github.com/havr67/mangosense271/tree/activity_1) ✅ 
+
+- [Activity 2](https://github.com/havr67/mangosense271/tree/activity_2) ✅ 
+
+- [Activity 3](https://github.com/havr67/mangosense271/tree/activity_3) ✅ 
+6. **Self/peer review files** (uploaded to URCourses only) ✅ 
 ***
 
 ## Apr 4, 2022
@@ -23,10 +28,10 @@ Final project presentation with a product demo. The presentation should include:
 ## Apr 4, 2022
 Team meating notes after check-in with Regina Food Bank:
 - Keep exploring and testing API
-- Start documenting the configuration we used and how it works
+- Started documenting the configuration we used and how it works
 
+## Apr 4, 2022
+Last Team meating:
+- Finished up the Project report
+- Organized Team GitHub page
 
-## Apr 6, 2022
-- Explored and tested the chatbot system using JSON API
-  - Retrieving user information after the sign-up (successfully done)
-  - Log-in process with email and name (still progressing)
