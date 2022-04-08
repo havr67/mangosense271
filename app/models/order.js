@@ -19,7 +19,7 @@ const orderSchema = new mongoose.Schema({
   confirmations: {
     type: Boolean,
     default: false,
-},
+}
 }
 );
 

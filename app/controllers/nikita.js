@@ -141,22 +141,18 @@ routs.get('/crateneworder', (req, res, next) => {
     try {
         let urlRequest = url.parse(req.url, true)
         const option = urlRequest.query.option
-        const reply = checkchoosenoption(option)
         const recipient = urlRequest.query.recipient
         const address = urlRequest.query.address
         const comments = urlRequest.query.comments
+
         const order = new Order({
-            option: option,   //option
+            option: option,  
             recipient: recipient,
             address: address,
             comments: comments
         })
-
         order.save()
-
-
         res.status(201).json({message: "Order was created"})
-
     } catch (e) {
         res.status(500).json({message: "something went wrong", e})
     }
