@@ -63,6 +63,8 @@ routs.get('/ds', (req, res, next) => {
     }
 })
 
+
+//Creates user
 routs.get('/user', (req, res, next) => {
     try {
         let urlRequest = url.parse(req.url, true)
@@ -104,6 +106,8 @@ routs.post('/', (req, res, next) => {
     }
 })
 
+
+//Prints all users
 routs.get('/getuser', (req, res, next) => {
     try {
 
@@ -115,6 +119,8 @@ routs.get('/getuser', (req, res, next) => {
     }
 })
 
+
+//Prints specific user
 routs.get('/getusername', (req, res, next) => {
     try {
         let urlRequest = url.parse(req.url, true)
@@ -137,6 +143,8 @@ routs.get('/getusername', (req, res, next) => {
     }
 })
 
+
+//Creates new order
 routs.get('/crateneworder', (req, res, next) => {
     try {
         let urlRequest = url.parse(req.url, true)
@@ -158,6 +166,8 @@ routs.get('/crateneworder', (req, res, next) => {
     }
 })
 
+
+//Prints all orders
 routs.get('/getorder', (req, res, next) => {
     try {
         order = Order.find().exec()
@@ -169,6 +179,8 @@ routs.get('/getorder', (req, res, next) => {
 })
 
 
+
+// Confirms specific order
 routs.get('/confirmorder', (req, res, next) => {
     try {
         let urlRequest = url.parse(req.url, true)
@@ -179,21 +191,31 @@ routs.get('/confirmorder', (req, res, next) => {
 })
 
 
-// create a post request using express to save user information 
-routs.post('/userrr', (req, res, next) => {
-    
-})
 
+// Returns FAQ indexes
 routs.get('/faq', (req, res, next) => {
     try {
+        const message = "Sign Up Help"
+        const message1 = "Sign Up can be done in our Bot system"
+        const message2 = "1. Click our friendly blue chatbot bottom right"
+        const message3 = "2. Follow the instructions"
+        const message4 = "3. Only one account per family * All accounts are keeping as private privacy"
+        const message5 = "4. Type menu to start"
         res.status(200).json({
-            topic: x
+            topic: message,
+            line1: message1,
+            line2: message2,
+            line3: message3,
+            line4: message4,
+            line5: message5
         })
     } catch (e) {
         res.status(500).json({message: "something went wrong", e})
     }
 })
 
+
+// Returns FAQ user manual 
 routs.get('/pickupoptions', (req, res, next) => {
     try {
         res.status(200).json({
