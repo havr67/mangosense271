@@ -1,6 +1,8 @@
 const express = require('express')
 const url = require('url')
 const User = require('../models/user')
+const Order = require('../models/order')
+const order = require('../models/order')
 const routs = express.Router()
 
 
@@ -138,12 +140,42 @@ routs.get('/getusername', (req, res, next) => {
 routs.get('/crateneworder', (req, res, next) => {
     try {
         let urlRequest = url.parse(req.url, true)
-        const order = urlRequest.query.order
-        const reply = checkchoosenoption(order)
-
-        res.status(200).json({
-            order: reply
+        const option = urlRequest.query.option
+        const reply = checkchoosenoption(option)
+        const recipient = urlRequest.query.recipient
+        const address = urlRequest.query.address
+        const comments = urlRequest.query.comments
+        const order = new Order({
+            option: option,   //option
+            recipient: recipient,
+            address: address,
+            comments: comments
         })
+
+        order.save()
+
+
+        res.status(201).json({message: "Order was created"})
+
+    } catch (e) {
+        res.status(500).json({message: "something went wrong", e})
+    }
+})
+
+routs.get('/getorder', (req, res, next) => {
+    try {
+        order = Order.find().exec()
+        .then(all => res.status(200).json(all))
+        .catch(err => res.status(500).json({error: err}))
+    } catch (e) {
+        res.status(500).json({message: "something went wrong", e})
+    }
+})
+
+
+routs.get('/confirmorder', (req, res, next) => {
+    try {
+        let urlRequest = url.parse(req.url, true)
 
     } catch (e) {
         res.status(500).json({message: "something went wrong", e})

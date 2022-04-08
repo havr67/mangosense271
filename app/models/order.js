@@ -5,6 +5,10 @@ const orderSchema = new mongoose.Schema({
     type: String,
     required: true,
   },
+  recipient: {
+    type: String,
+    required: true,
+  },
   address: {
     type: String,
     required: true,
@@ -12,6 +16,10 @@ const orderSchema = new mongoose.Schema({
   comments: {
     type: String,
   }, 
+  confirmations: {
+    type: Boolean,
+    default: false,
+},
 }
 );
 
