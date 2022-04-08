@@ -35,3 +35,70 @@ Last Team meating:
 - Finished up the Project report
 - Organized Team GitHub page
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+API manin file - [https://github.com/havr67/mangosense271/blob/test_branch/app/controllers/nikita.js]
+
+
+
+
+
+Server for API = [https://github.com/havr67/mangosense271/blob/test_branch/]
+to start it use npm start 
+
+
+http://localhost:7777/nikita/crateneworder?option=2&recipient=Nikdita&address=Robinson
+
+create new order
+
+http://localhost:7777/nikita/user?name=david&email=user2@user.com&phone=3065357559&income=4444
+
+create new user with no dublicates 
+
+
+http://localhost:7777/nikita/getorder
+
+[{"_id":"625087afd9f8a4df489e26ae","option":"2","recipient":"Nikdita","address":"Robinson","confirmations":false,"__v":0},{"_id":"625087b0d9f8a4df489e26b0","option":"2","recipient":"Nikdita","address":"Robinson","confirmations":false,"__v":0},{"_id":"625087b8d9f8a4df489e26b2","option":"2","recipient":"Nikdita","address":"Robinson","confirmations":false,"__v":0},{"_id":"6250918955134246e94d269f","option":"2","recipient":"Nikdita","address":"Robinson","confirmations":false,"__v":0}]
+
+
+
+
+https://github.com/havr67/chat_bot/tree/chatbotforreginafoodbank/src/chat
+
+
+chat interaction 
+
+
+
+https://github.com/havr67/chat_bot/tree/chatbotforreginafoodbank/src/components
+
+chat widgets
+
+
+https://github.com/havr67/chat_bot/blob/chatbotforreginafoodbank/src/App.js
+
+
+main file for bot where it runs
+
+
+
+we used react-chatbot-kit for chat_bot GUI
+
+
