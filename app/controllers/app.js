@@ -6,7 +6,6 @@ console.log("app started"); //Nice
 const test_app = require('./test') //code
 const test1_app = require('./test1')
 const test2_app = require('./test2')
-const dk_test = require('./dk')
 const yx_test = require('./mytest')
 const nikita = require('./nikita')
 
@@ -26,7 +25,6 @@ app.use(express.json());
 app.use('/', test_app)
 app.use('/hello', test1_app) 
 app.use('/g', test2_app)
-app.use('/testing', dk_test)
 app.use('/testtesttest',yx_test)
 app.use('/nikita', nikita)
 
