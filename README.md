@@ -3,7 +3,7 @@
 **To-do**
 1. **Summarized customer notes** from customer check-ins (2-page maximum) ✅ 
 
-[Last Customer Notes](https://github.com/havr67/mangosense271/blob/activity_4/ENSE271%20Group%20Project-check%20in%20Apr%204.pdf)
+- [Last Customer Notes](https://github.com/havr67/mangosense271/blob/activity_4/ENSE271%20Group%20Project-check%20in%20Apr%204.pdf) 
 
 2. **API and other configuration files**
 
@@ -28,8 +28,10 @@ To start the server, use npm start (Visual Studio)
 
 For visualization: We used react-chatbot-kit for chat_bot GUI
 
-3. **Project report-out and lessons learned document (as a PDF)**. See criteria below
-4. **All up-to-date project documentation/files** from previous and current project activities in team GitHub
+3. **Project report-out and lessons learned document (as a PDF)**. ✅ 
+
+- [Project Report](https://github.com/havr67/mangosense271/blob/activity_4/ENSE271_Team%20Mangos%20Project%20Report.pdf)
+5. **All up-to-date project documentation/files** from previous and current project activities in team GitHub
 
 - [Activity 1](https://github.com/havr67/mangosense271/tree/activity_1) ✅ 
 
