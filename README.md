@@ -31,13 +31,13 @@ For visualization: We used react-chatbot-kit for chat_bot GUI
 3. **Project report-out and lessons learned document (as a PDF)**. ✅ 
 
 - [Project Report](https://github.com/havr67/mangosense271/blob/activity_4/ENSE271_Team%20Mangos%20Project%20Report.pdf)
-5. **All up-to-date project documentation/files** from previous and current project activities in team GitHub
+5. **All up-to-date project documentation/files** from previous and current project activities in team GitHub ✅
 
-- [Activity 1](https://github.com/havr67/mangosense271/tree/activity_1) ✅ 
+- [Activity 1](https://github.com/havr67/mangosense271/tree/activity_1)  
 
-- [Activity 2](https://github.com/havr67/mangosense271/tree/activity_2) ✅ 
+- [Activity 2](https://github.com/havr67/mangosense271/tree/activity_2) 
 
-- [Activity 3](https://github.com/havr67/mangosense271/tree/activity_3) ✅ 
+- [Activity 3](https://github.com/havr67/mangosense271/tree/activity_3) 
 5. **Self/peer review files** (uploaded to URCourses only) ✅ 
 ***
 
