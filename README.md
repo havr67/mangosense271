@@ -15,6 +15,9 @@ We explored and tested our API chatbot in different repo so that the files might
 To start the server, use npm start (Visual Studio)
 
   **Demo:**
+  ---
+  **You need to start the server using "npm start" to see our API chatbot demonstration!!**
+  We documented inside the programming/code so that users can see what each functions can do.
 
 - Create a new user with no duplicates http://localhost:7777/nikita/user?name=david&email=user2@user.com&phone=3065357559&income=4444
 - Create a new order http://localhost:7777/nikita/crateneworder?option=2&recipient=Nikdita&address=Robinson
