@@ -7,6 +7,9 @@
 
 2. **API and other configuration files**
 
+We explored and tested our API chatbot in different repo so that the files might be hard to find but we make sure to put direct links to those files.
+
+- [Chatbot Repo](https://github.com/havr67/chat_bot)
 - [API Main file](https://github.com/havr67/mangosense271/blob/test_branch/app/controllers/nikita.js)
 - [Server for API](https://github.com/havr67/mangosense271/blob/test_branch/)
 To start the server, use npm start (Visual Studio)
