@@ -15,16 +15,17 @@ After the pandemic, Regina Food Bank has been dealing with a high volume of call
 Our project will update and increase the functionality of GET HELP page, also adding the texting bot that would allow users to answer their questions without phone call. This allows user with better interaction with food bank, and put less stress on call center.
 
 ## Northstar & Carryover customers
-Northstar customers are long-term users of the food bank since they will be delightful to find the improvement of the food bank services.
+Northstar customers is John Bailey, Chief Executive Officer (CEO) – Regina Food Bank (RFB)
 
-Carryover customers are one or two-time users. It is likely that if these new users are satisfied with the design, other users are willing to choose that as well.
+Carryover customer is the Regina Food Bank. 
 
 ## Project Assumption
-We are going to use NodeJS, python and WordPress, for the realization of the project. NodeJS for server side and frontend. Python for bot algorithms.
+We are going to use NodeJS, MongoDB, and React for the realization of the project. NodeJS for chatbot systems and functions, MongoDB for storing user’s sign-up pieces of information and React for user interfaces.
 
 
 ## Project Constraints
-While making a chatbot for the FOOD BANK, the one main constraint is a lack of experience and knowledge. We will need to have a good quality outcome in the limited time we have to solve the majority of problems.
+Since some plugins on WordPress don’t have an admin part or they need to be upgraded to a pro version, we needed to explore and test our chatbot on another platform.
+
 
 ## Project Activities
 
